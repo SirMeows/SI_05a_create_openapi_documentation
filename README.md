@@ -1,4 +1,4 @@
-# 05a [Individual] Create OpenAPI Documentation
+# 06a [Individual] Create OpenAPI Documentation
 
 Create documentation that follows the OpenAPI specification. 
 
